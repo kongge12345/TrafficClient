@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\5.10TrafficClient\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="E:\5.10TrafficClient\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_9803358770dda6fca4890a506051685906f89698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\5.10TrafficClient\app\libs\MPAndroidChart-v2.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34b9f39e5343d39e205fb7617e734601dc4868e7">
+        <dex dex="E:\5.10TrafficClient\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.5_64c12d142cada893173be12eb5cb8131d8f96a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\5.10TrafficClient\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="E:\5.10TrafficClient\app\build\intermediates\pre-dexed\debug\volley_97d05a763f75df86afc9614257766d7ee09ee5b9.jar" />
+    </item>
+
+</items>

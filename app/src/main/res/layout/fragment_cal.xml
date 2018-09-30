@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+  <LinearLayout
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:layout_weight="7">
+      <CalendarView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/frag_cal"></CalendarView>
+  </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="乘车日期："/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="2018-04-03"
+            android:textSize="30sp"
+            android:id="@+id/frag_tv_date"/>
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:textSize="30sp"
+            android:text="下一步"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="450dp"
+            android:background="@drawable/btn"
+            android:id="@+id/frag_btn_next"/>
+    </LinearLayout>
+
+</LinearLayout>

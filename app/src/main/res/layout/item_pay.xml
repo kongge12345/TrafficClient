@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/tv_item_curren"
+        android:layout_weight="3"
+        android:text="日期"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_weight="4"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="充值人：张三"/>
+    <TextView
+        android:layout_marginTop="25dp"
+        android:id="@+id/tv_item_carid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="车号:鲁B10001"/>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_item_pay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="充值"/>
+        <TextView
+            android:layout_marginTop="25dp"
+            android:id="@+id/tv_item_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="余额"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="充值时间"/>
+        <TextView
+            android:layout_marginTop="25dp"
+            android:id="@+id/tv_item_pay_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="充值时间"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

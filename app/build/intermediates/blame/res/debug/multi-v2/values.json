@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Studio project\\5.10TrafficClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Android Studio project\\5.10TrafficClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,4,5,13,17,9,7,8,25,24,11,15,14,22,23,21,19,20,12,10,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "202,113,159,494,624,331,249,291,988,938,416,583,538,843,891,785,677,730,453,378,56",
+                        "endLines": "6,4,5,13,17,9,7,8,26,24,11,15,14,22,23,21,19,20,12,10,3",
+                        "endColumns": "46,45,42,43,47,46,41,39,57,49,36,39,44,47,46,57,52,54,40,37,56",
+                        "endOffsets": "244,154,197,533,667,373,286,326,1082,983,448,618,578,886,933,838,725,780,489,411,108"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "565,612,658,701,745,793,840,882,922,1021,1071,1108,1148,1193,1241,1288,1346,1399,1454,1495,1533",
+                        "endLines": "13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34",
+                        "endColumns": "46,45,42,43,47,46,41,39,57,49,36,39,44,47,46,57,52,54,40,37,56",
+                        "endOffsets": "607,653,696,740,788,835,877,917,1016,1066,1103,1143,1188,1236,1283,1341,1394,1449,1490,1528,1585"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\5.10TrafficClient\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19,23",
+                        "startColumns": "4,4,0,5",
+                        "startOffsets": "192,525,686,840",
+                        "endLines": "12,17,21,25",
+                        "endColumns": "12,12,8,12",
+                        "endOffsets": "484,682,827,988"
+                    },
+                    "to": {
+                        "startLines": "35,42,45,48",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1590,1881,2041,2185",
+                        "endLines": "41,44,47,50",
+                        "endColumns": "12,12,8,12",
+                        "endOffsets": "1876,2036,2180,2331"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\5.10TrafficClient\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,11,4,5,7,8,9,10,6",
+                        "startColumns": "1,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,420,98,144,236,278,325,369,190",
+                        "endColumns": "36,40,44,44,40,45,42,49,44",
+                        "endOffsets": "92,456,138,184,272,319,363,414,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,136,181,226,267,313,356,406",
+                        "endColumns": "39,40,44,44,40,45,42,49,44",
+                        "endOffsets": "90,131,176,221,262,308,351,401,446"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\5.10TrafficClient\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "451,509",
+                        "endColumns": "57,55",
+                        "endOffsets": "504,560"
+                    }
+                }
+            ]
+        }
+    ]
+}
