@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio project\TrafficClient_Texttry01\app\libs\MPAndroidChart-v2.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34b9f39e5343d39e205fb7617e734601dc4868e7">
+        <dex dex="E:\Android Studio project\TrafficClient_Texttry01\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.5_2d9eb6ace7029d481b0ef209cc820781a9d5188e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio project\TrafficClient_Texttry01\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="E:\Android Studio project\TrafficClient_Texttry01\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_396c2f20d5aedd65c9c7625c94aced1298fad354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Studio project\TrafficClient_Texttry01\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="E:\Android Studio project\TrafficClient_Texttry01\app\build\intermediates\pre-dexed\debug\volley_375f12ca74c9ad6573227702a5229e2e6c851339.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,129 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,4,5,13,17,9,7,8,25,24,11,15,14,22,23,21,19,20,12,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,61,107,442,572,279,197,239,936,886,364,531,486,791,839,733,625,678,401,326",
+                        "endLines": "6,4,5,13,17,9,7,8,26,24,11,15,14,22,23,21,19,20,12,10",
+                        "endColumns": "46,45,42,43,47,46,41,39,57,49,36,39,44,47,46,57,52,54,40,37",
+                        "endOffsets": "192,102,145,481,615,321,234,274,1030,931,396,566,526,834,881,786,673,728,437,359"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "565,612,658,701,745,793,840,882,922,1021,1071,1108,1148,1193,1241,1288,1346,1399,1454,1495",
+                        "endLines": "13,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "endColumns": "46,45,42,43,47,46,41,39,57,49,36,39,44,47,46,57,52,54,40,37",
+                        "endOffsets": "607,653,696,740,788,835,877,917,1016,1066,1103,1143,1188,1236,1283,1341,1394,1449,1490,1528"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,11,4,5,7,8,9,10,6",
+                        "startColumns": "1,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,420,98,144,236,278,325,369,190",
+                        "endColumns": "36,40,44,44,40,45,42,49,44",
+                        "endOffsets": "92,456,138,184,272,319,363,414,230"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,136,181,226,267,313,356,406",
+                        "endColumns": "39,40,44,44,40,45,42,49,44",
+                        "endOffsets": "90,131,176,221,262,308,351,401,446"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19,23",
+                        "startColumns": "4,4,0,5",
+                        "startOffsets": "192,525,686,840",
+                        "endLines": "12,17,21,25",
+                        "endColumns": "12,12,8,12",
+                        "endOffsets": "484,682,827,988"
+                    },
+                    "to": {
+                        "startLines": "34,41,44,47",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1533,1824,1984,2128",
+                        "endLines": "40,43,46,49",
+                        "endColumns": "12,12,8,12",
+                        "endOffsets": "1819,1979,2123,2274"
+                    }
+                },
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "451,509",
+                        "endColumns": "57,55",
+                        "endOffsets": "504,560"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android Studio project\\TrafficClient_Texttry_last\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

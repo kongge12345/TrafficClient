@@ -1,0 +1,4 @@
+#Sat Aug 11 10:05:08 CST 2018
+base.0=E\:\\Android Studio project\\TrafficClient_Texttry_last\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

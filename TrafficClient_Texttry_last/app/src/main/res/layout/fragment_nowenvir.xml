@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/Ntemp_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22"
+        android:padding="10dp"
+        android:textSize="90dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/du"
+        android:textSize="90dp"
+        android:layout_toRightOf="@+id/Ntemp_tv"
+        android:layout_marginTop="40dp"
+        android:text="°"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Ttemp_tv"
+        android:text="今天的温度"
+        android:textSize="35dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="170dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/refresh"
+        android:background="@drawable/refresh"
+        android:layout_marginTop="40dp"
+        android:layout_toRightOf="@+id/du"
+        android:layout_marginLeft="20dp"/>
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/lc_life"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@id/refresh"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp">
+    </com.github.mikephil.charting.charts.LineChart>
+
+</RelativeLayout>

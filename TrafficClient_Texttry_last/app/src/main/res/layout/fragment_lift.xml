@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:layout_gravity="center"
+        android:text="实时数据分析"
+        android:padding="10dp"
+        android:textColor="@android:color/black" />
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:layout_width="match_parent"
+        android:id="@+id/piechart_life"
+        android:layout_marginRight="80dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/tv_lift"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:layout_gravity="center"/>
+    </com.github.mikephil.charting.charts.PieChart>
+
+</LinearLayout>
